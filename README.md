@@ -1,4 +1,4 @@
-# EDAN (Encode Decode Automatic Nih) 🚀
+# EDAN (Encode Decode Automation Nih) 🚀
 
 [![PHP Version](https://img.shields.io/badge/php-%3E%3D7.4-8892bf.svg?style=flat-square)](https://php.net)
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
@@ -107,25 +107,15 @@ php edan.php encode "input string."
    ```
    ENCODE by. EDAN (Encode Decode Automation Nih)
 
-   Base64          : cmFoYXNpYQ==
-   Base64URL       : cmFoYXNpYQ
-   URL Encode      : rahasia
-   Hexadecimal     : 72616861736961
-   Decimal         : 114 97 104 97 115 105 97
-   Binary          : 01110010 01100001 01101000 01100001 01110011 01101001 01100001
-   Base32          : OJQWQYLTNFQQ
-   ROT13           : enunfvn
    Morse Code      : .-. .- .... .- ... .. .-
    Caesar          : enunfvn
-   UUEncode        : '<F%H87-I80`
-   `
-   JSON            : "rahasia"
    SHA256          : 541e984103d4099bb8383050c56d511e733d85e6ab889a1c363ced651762eee0
    MD5             : ac43724f16e9241d990427ab7c8f4228
    Reversed        : aisahar
    ```
 
 ## 🤝 Kontribusi
-Kontribusi terbuka untuk siapa saja. Jika Anda menemukan bug atau ingin menambahkan algoritma baru, silakan ajukan Pull Request atau buka Issue.
+Kontribusi terbuka untuk siapa saja.
+Jika Anda menemukan bug atau ingin menambahkan algoritma baru, silakan ajukan Pull Request atau buka Issue.
 
 Dibuat dengan ❤️ untuk komunitas open source.
